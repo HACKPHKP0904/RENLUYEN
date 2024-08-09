@@ -1,0 +1,7 @@
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\renluyenbaitap_buoi1\obj\Debug\renluyenbaitap_buoi1.csproj.AssemblyReference.cache
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\renluyenbaitap_buoi1\obj\Debug\renluyenbaitap_buoi1.csproj.CoreCompileInputs.cache
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\renluyenbaitap_buoi1\bin\Debug\renluyenbaitap_buoi1.exe.config
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\renluyenbaitap_buoi1\bin\Debug\renluyenbaitap_buoi1.exe
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\renluyenbaitap_buoi1\bin\Debug\renluyenbaitap_buoi1.pdb
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\renluyenbaitap_buoi1\obj\Debug\renluyenbaitap_buoi1.exe
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\renluyenbaitap_buoi1\obj\Debug\renluyenbaitap_buoi1.pdb

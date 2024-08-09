@@ -1,0 +1,6 @@
+D:\renluyen\baitap_buoi2\renluyen_buoi2\check_validate\bin\Debug\check_validate.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\check_validate\bin\Debug\check_validate.pdb
+D:\renluyen\baitap_buoi2\renluyen_buoi2\check_validate\obj\Debug\check_validate.csproj.AssemblyReference.cache
+D:\renluyen\baitap_buoi2\renluyen_buoi2\check_validate\obj\Debug\check_validate.csproj.CoreCompileInputs.cache
+D:\renluyen\baitap_buoi2\renluyen_buoi2\check_validate\obj\Debug\check_validate.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\check_validate\obj\Debug\check_validate.pdb

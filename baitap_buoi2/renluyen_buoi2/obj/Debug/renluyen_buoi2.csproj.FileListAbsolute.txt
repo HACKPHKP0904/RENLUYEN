@@ -1,0 +1,14 @@
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\renluyen_buoi2.exe.config
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\renluyen_buoi2.exe
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\renluyen_buoi2.pdb
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\check_validate.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\check_validate.pdb
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\obj\Debug\renluyen_buoi2.csproj.AssemblyReference.cache
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\obj\Debug\renluyen_buoi2.csproj.CoreCompileInputs.cache
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\obj\Debug\renluyen.784F370B.Up2Date
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\obj\Debug\renluyen_buoi2.exe
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\obj\Debug\renluyen_buoi2.pdb
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\Method_xuli.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\Method_xuli.pdb
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\Menu_LuaChon.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\renluyen_buoi2\bin\Debug\Menu_LuaChon.pdb

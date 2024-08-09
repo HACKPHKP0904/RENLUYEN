@@ -1,0 +1,9 @@
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\bin\Debug\method_xuli.dll
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\bin\Debug\method_xuli.pdb
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\bin\Debug\check_dulieu.dll
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\bin\Debug\check_dulieu.pdb
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\obj\Debug\method_xuli.csproj.AssemblyReference.cache
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\obj\Debug\method_xuli.csproj.CoreCompileInputs.cache
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\obj\Debug\method_x.4F31015A.Up2Date
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\obj\Debug\method_xuli.dll
+D:\renluyen\baitap_buoi1\renluyenbaitap_buoi1\method_xuli\obj\Debug\method_xuli.pdb

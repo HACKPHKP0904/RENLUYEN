@@ -1,0 +1,11 @@
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\bin\Debug\Menu_LuaChon.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\bin\Debug\Menu_LuaChon.pdb
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\bin\Debug\check_validate.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\bin\Debug\Method_xuli.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\bin\Debug\check_validate.pdb
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\bin\Debug\Method_xuli.pdb
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\obj\Debug\Menu_LuaChon.csproj.AssemblyReference.cache
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\obj\Debug\Menu_LuaChon.csproj.CoreCompileInputs.cache
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\obj\Debug\Menu_Lua.AD43D3C5.Up2Date
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\obj\Debug\Menu_LuaChon.dll
+D:\renluyen\baitap_buoi2\renluyen_buoi2\Menu_LuaChon\obj\Debug\Menu_LuaChon.pdb

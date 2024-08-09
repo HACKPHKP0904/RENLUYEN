@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A79B1-F3E5-4B09-BA37-B6F268754B97}|Menu_LuaChon\\Menu_LuaChon.csproj|d:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\menu_luachon\\luachon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A79B1-F3E5-4B09-BA37-B6F268754B97}|Menu_LuaChon\\Menu_LuaChon.csproj|solutionrelative:menu_luachon\\luachon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BA37F7-A114-438A-A319-5AF243D49BC8}|renluyen_buoi2\\renluyen_buoi2.csproj|d:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\renluyen_buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BA37F7-A114-438A-A319-5AF243D49BC8}|renluyen_buoi2\\renluyen_buoi2.csproj|solutionrelative:renluyen_buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158CF73E-3DD3-4D70-8B3B-BF3F88E2337C}|Method_xuli\\Method_xuli.csproj|d:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\method_xuli\\xulichanle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158CF73E-3DD3-4D70-8B3B-BF3F88E2337C}|Method_xuli\\Method_xuli.csproj|solutionrelative:method_xuli\\xulichanle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "xuLiChanLe.cs",
+              "DocumentMoniker": "D:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\Method_xuli\\xuLiChanLe.cs",
+              "RelativeDocumentMoniker": "Method_xuli\\xuLiChanLe.cs",
+              "ToolTip": "D:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\Method_xuli\\xuLiChanLe.cs",
+              "RelativeToolTip": "Method_xuli\\xuLiChanLe.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:28:17.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "luaChon.cs",
+              "DocumentMoniker": "D:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\Menu_LuaChon\\luaChon.cs",
+              "RelativeDocumentMoniker": "Menu_LuaChon\\luaChon.cs",
+              "ToolTip": "D:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\Menu_LuaChon\\luaChon.cs",
+              "RelativeToolTip": "Menu_LuaChon\\luaChon.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:09:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\renluyen_buoi2\\Program.cs",
+              "RelativeDocumentMoniker": "renluyen_buoi2\\Program.cs",
+              "ToolTip": "D:\\renluyen\\baitap_buoi2\\renluyen_buoi2\\renluyen_buoi2\\Program.cs",
+              "RelativeToolTip": "renluyen_buoi2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:11:51.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
